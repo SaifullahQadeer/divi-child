@@ -1,2 +1,2 @@
-# divi-child
-Divi Child theme
+# Divi-Child
+ This is a free Divi child theme
